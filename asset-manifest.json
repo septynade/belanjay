@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/belanjay/static/css/main.69d43e3f.chunk.css",
+    "main.js": "/belanjay/static/js/main.8e11caf0.chunk.js",
+    "main.js.map": "/belanjay/static/js/main.8e11caf0.chunk.js.map",
+    "runtime-main.js": "/belanjay/static/js/runtime-main.43662a54.js",
+    "runtime-main.js.map": "/belanjay/static/js/runtime-main.43662a54.js.map",
+    "static/js/2.6b4a725a.chunk.js": "/belanjay/static/js/2.6b4a725a.chunk.js",
+    "static/js/2.6b4a725a.chunk.js.map": "/belanjay/static/js/2.6b4a725a.chunk.js.map",
+    "index.html": "/belanjay/index.html",
+    "precache-manifest.5780e6bd5ec08e546d54d306d4eccbeb.js": "/belanjay/precache-manifest.5780e6bd5ec08e546d54d306d4eccbeb.js",
+    "service-worker.js": "/belanjay/service-worker.js",
+    "static/css/main.69d43e3f.chunk.css.map": "/belanjay/static/css/main.69d43e3f.chunk.css.map",
+    "static/js/2.6b4a725a.chunk.js.LICENSE.txt": "/belanjay/static/js/2.6b4a725a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.43662a54.js",
+    "static/js/2.6b4a725a.chunk.js",
+    "static/css/main.69d43e3f.chunk.css",
+    "static/js/main.8e11caf0.chunk.js"
+  ]
+}
